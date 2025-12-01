@@ -1,0 +1,15 @@
+{
+    "JwtSettings": {
+        "SecretKey": "minhaSuperChaveUltraSeguraJWT1234567890!!!"
+    },
+    "ConnectionStrings": {
+        "DefaultConnection": "server=mysql1003.site4now.net;user=Mateus;password=Mateusmat1!"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    },
+    "AllowedHosts": "*"
+}
